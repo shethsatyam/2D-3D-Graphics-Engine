@@ -1,2 +1,2 @@
 # 2D-3D-Graphics-Engine
-Source code for creating 2D-3D Graphics engine that allows to display 3D objects on an LCD screen
+2D-3D Graphics engine allows us to display 3D objects on an LCD screen by first converting the World co-ordinate sysytem to Viewer co-ordinate system and then following it with a perspective projection to plot 3D objects on a 2D LCD display
